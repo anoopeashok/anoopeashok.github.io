@@ -30,7 +30,7 @@ export const projects = [
   {
     title: "Connect-Social Backend",
     description:
-      "Connect-Social is a Node.js backend for a social media platform where users can connect through events, attend or host them, upload photos and stories, manage friendships, interact with posts, and follow other users. This backend is built with Node.js, uses MongoDB for the database, and integrates AWS S3 for file storage.",
+      "Connect-Social is a Node.js backend for a social media platform where users can connect through events, attend or host them, upload photos and stories, manage friendships and follow other users.",
     tech: "NodeJs",
     github: "https://github.com/anoopeashok/connect-social-backend.git",
   },
