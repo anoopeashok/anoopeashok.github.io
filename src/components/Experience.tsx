@@ -7,7 +7,7 @@ import { Card, CardContent } from "@/components/ui/card";
 const jobs = [
   {
     role: "Mobile Application Developer", // TODO: Replace with actual role
-    company: "iworxs by Palnar GmbH & Co.KG", // TODO: Replace with actual company name
+    company: "iworxs by Palnar GmbH & Co.KG.", // TODO: Replace with actual company name
     logo: "/palnar.svg", // TODO: Replace with actual logo
     duration: "2022 - 2023",
     description: `•   Successfully led and managed a Flutter development team, enhancing workflow efficiency and establishing high coding standards.
