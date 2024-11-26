@@ -70,6 +70,7 @@ export const Projects = () => {
                     </div>
                     {p.android && (
                       <Link
+                        target="_blank"
                         href={p.android}
                         className="flex items-center gap-2 text-sm text-primary hover:underline"
                       >
@@ -79,6 +80,7 @@ export const Projects = () => {
                     )}
                     {p.ios && (
                       <Link
+                        target="_blank"
                         href={p.ios}
                         className="flex items-center gap-2 text-sm text-primary hover:underline"
                       >
@@ -88,6 +90,7 @@ export const Projects = () => {
                     )}
                     {p.github && (
                       <Link
+                        target="_blank"
                         href={p.github}
                         className="flex items-center gap-2 text-sm text-primary hover:underline"
                       >
