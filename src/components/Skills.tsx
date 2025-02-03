@@ -6,7 +6,7 @@ import {
 } from "@/components/ui/card";
 import { Badge } from "@/components/ui/badge";
 
-const skills = ["Flutter", "Android", "iOS","SwiftUI","Kotlin", "Python", "NodeJS", "ExpressJS", "MongoDB","Elixir", "Git", "Docker", "Linux", "Windows", "MacOS"]
+const skills = ["Flutter", "Android", "iOS","SwiftUI","Kotlin", "Python", "NodeJS", "ExpressJS", "MongoDB", "Git", "Docker", "Linux", "Windows", "MacOS"]
 
 export const Skills = () => {
     return (
