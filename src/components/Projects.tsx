@@ -28,11 +28,11 @@ export const projects = [
       "https://play.google.com/store/apps/details?id=com.leopardtechlabs.jumbo_radar_app",
   },
   {
-    title: "Connect-Social Backend",
+    title: "Stock Market Game",
     description:
-      "Connect-Social is a Node.js backend for a social media platform where users can connect through events, attend or host them, upload photos and stories, manage friendships and follow other users.",
-    tech: "NodeJs",
-    github: "https://github.com/anoopeashok/connect-social-backend.git",
+      "Stock market simulation game with flutter, user can buy, sell and analyse stocks with recent market news.",
+    tech: "Flutter",
+    github: "https://github.com/anoopeashok/stock-market-game",
   },
 ];
 
